@@ -1,5 +1,5 @@
-# Titles 
-Mixed Messages - Portfolio Project
+# Mixed Messages Project 
+Portfolio Project #1 (January 2022)
 
 ## Table of Contents
 
